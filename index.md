@@ -1,7 +1,7 @@
 ## Welcome to D3V1L-cmd Website
 
 ### Survival Map
-[Survival Map])(/survival-map/indec=x.html)
+[Survival Map](/survival-map/index.html)
 ```
 
 ```
