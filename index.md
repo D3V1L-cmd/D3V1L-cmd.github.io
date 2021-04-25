@@ -1,12 +1,10 @@
 ## Welcome to D3V1L-cmd Website
 
-You can use the [editor on GitHub](https://github.com/D3V1L-cmd/D3V1L-cmd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Survival Map
+[Survival Map])(/survival-map/indec=x.html)
+```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
 
 <!--
 ```markdown
