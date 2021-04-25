@@ -8,15 +8,10 @@ function getLocation() {
 }
 
 function showPosition(position) {
-  x.innerHTML = "Latitude: " + position.coords.latitude +
-  "<br>Longitude: " + position.coords.longitude;
-}
-
-function showPosition(position) {
   var latlon = position.coords.latitude + "," + position.coords.longitude;
 
   var img_url = "https://maps.googleapis.com/maps/api/staticmap?center=
   "+latlon+"&zoom=14&size=400x300&sensor=false&key=AIzaSyAV-i_qHTzJ3WnEAbs9dD5a3rZLOxISzlY";
 
-  document.getElementById("mapholder").innerHTML = "<img src='"+img_url+"'>";
+  document.getElementById("map").innerHTML = "<img src='"+img_url+"'>";
 }
